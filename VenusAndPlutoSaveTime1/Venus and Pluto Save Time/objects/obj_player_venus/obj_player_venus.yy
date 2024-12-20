@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "obj_player_venus",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":7,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -15,7 +15,7 @@
     "name": "obj_player",
     "path": "objects/obj_player/obj_player.yy",
   },
-  "persistent": false,
+  "persistent": true,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Player_Venus_D",
-    "path": "sprites/Spr_Player_Venus_D/Spr_Player_Venus_D.yy",
+    "name": "spr_player_venus_d",
+    "path": "sprites/spr_player_venus_d/spr_player_venus_d.yy",
   },
   "spriteMaskId": null,
   "visible": true,

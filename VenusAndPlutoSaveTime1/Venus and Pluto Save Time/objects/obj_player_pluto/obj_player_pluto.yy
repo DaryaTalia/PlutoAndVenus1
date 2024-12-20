@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "obj_player_pluto",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":7,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Spr_Player_Pluto_D",
-    "path": "sprites/Spr_Player_Pluto_D/Spr_Player_Pluto_D.yy",
+    "name": "spr_player_pluto_d",
+    "path": "sprites/spr_player_pluto_d/spr_player_pluto_d.yy",
   },
   "spriteMaskId": null,
   "visible": true,
